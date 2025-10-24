@@ -2,8 +2,7 @@ Image generation from Text-prompts using SD-Turbo.
 
 In this work, Text-prompts are loaded from a Google-doc file, and using SD-Turbo model, images are generated from those Text-prompts. Below is a quick description of the model. Info from original website.
 
-Note: Due to updated Github configuration the Notebook's cell-outputs are cleared. So, to see the generated images look at the 'final_outputs' folder.
-
+Note: Due to updated Github configuration the Notebook's cell-outputs are cleared. So, 5 'generated images' are uploaded fro reference.
 # Details - https://huggingface.co/stabilityai/sd-turbo
 " SD-Turbo is a distilled version of Stable Diffusion 2.1, trained for real-time synthesis. 
 SD-Turbo is based on a novel training method called Adversarial Diffusion Distillation (ADD), 
